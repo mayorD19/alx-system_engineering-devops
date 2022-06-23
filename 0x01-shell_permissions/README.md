@@ -13,4 +13,5 @@
 12-A  script that creates a directory called mydir with permissions 751 in the working directory.
 13-A script that changes the group owner to school for the file hello.
 14-A  script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
-15-script that changes the owner and the group owner of _hello to vincent and staff respectively.
+15-A script that changes the owner and the group owner of _hello to vincent and staff respectively.
+16-A  script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
