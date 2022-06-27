@@ -2,3 +2,4 @@
 1-A script of a confused smiley
 2-A script that displays the content of a file 
 3-A script to cat two files
+4-A script to display the last 10 lines
