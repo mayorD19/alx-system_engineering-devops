@@ -17,4 +17,5 @@
 16-A file that displays lines of a patternized file and 3 lines after
 17-A file that hides trhe "bin" pattern
 18-A script to siaplay all the lines of a file starting with letters
-19-A script that replaces some characters to others 
+19-A script that replaces some characters to others
+20-A script that removes all letters c and C from input 
