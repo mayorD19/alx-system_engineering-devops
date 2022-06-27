@@ -5,3 +5,4 @@
 4-A script to display the last 10 lines
 5-A script to display the first 10 lines
 6-A script to display the third line of a file
+7-A script that creates a file named best school
