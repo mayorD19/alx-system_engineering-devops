@@ -15,4 +15,5 @@
 14-A script to show a pattern of a file
 15-A script that displays a matching pattern in a file
 16-A file that displays lines of a patternized file and 3 lines after
-17-A file that hides trhe "bin" pattern 
+17-A file that hides trhe "bin" pattern
+18-A script to siaplay all the lines of a file starting with letters 
