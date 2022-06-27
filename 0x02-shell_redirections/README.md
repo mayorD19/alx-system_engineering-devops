@@ -7,3 +7,4 @@
 6-A script to display the third line of a file
 7-A script that creates a file named best school
 8-A script that writes into a file.
+9-A A script that duplicates the last line of a file 
