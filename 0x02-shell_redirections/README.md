@@ -18,4 +18,5 @@
 17-A file that hides trhe "bin" pattern
 18-A script to siaplay all the lines of a file starting with letters
 19-A script that replaces some characters to others
-20-A script that removes all letters c and C from input 
+20-A script that removes all letters c and C from input
+21-A script that reverses its input 
