@@ -22,3 +22,4 @@
 21-A script that reverses its input
 22-A script that list all the users and thier directories in a sorted way
 23-A command that finds all the empty files and directories in the current dir.
+24-A script to list all  the .gif extension.
