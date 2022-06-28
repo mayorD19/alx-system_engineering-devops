@@ -1,3 +1,4 @@
-1-A script that creates an alias of the rm command
-2-A script that print hello user for the current user of the linux system
-3-A script that searches for a file in a path last.
+0-A script that creates an alias of the rm command
+1-A script that print hello user for the current user of the linux system
+2-A script that searches for a file in a path last.
+3-A script to count the number of directories in a path.
