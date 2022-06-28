@@ -24,3 +24,4 @@
 23-A command that finds all the empty files and directories in the current dir.
 24-A script to list all  the .gif extension.
 25-Acrostics
+26-A script of a scraping the web
