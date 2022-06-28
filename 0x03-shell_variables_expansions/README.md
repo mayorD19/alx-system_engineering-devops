@@ -4,3 +4,4 @@
 3-A script to count the number of directories in a path.
 4-A script that lists environment variables.
 5-A script that lists all local variables and environment variables, and functions.
+6-A script that creates a new local variable.
