@@ -8,3 +8,4 @@
 7-A script that creates a new global variable.
 8-A script to add 128  to a global variable.
 9-A script to divide the variable power by the variable divide.
+10-A script that displays the result of BREATH to the power LOVE.
