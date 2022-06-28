@@ -14,3 +14,4 @@
 13-A script that prints a number in 2 decimal places.
 14-A script that converts to decimal to hexadecimal.
 15-A script that encodes and decodes text using the rot13 encryption.Assume ASCI
+16-A  script that prints every other line from the input, starting with the first line
