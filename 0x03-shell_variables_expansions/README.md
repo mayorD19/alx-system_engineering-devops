@@ -3,3 +3,4 @@
 2-A script that searches for a file in a path last.
 3-A script to count the number of directories in a path.
 4-A script that lists environment variables.
+5-A script that lists all local variables and environment variables, and functions.
